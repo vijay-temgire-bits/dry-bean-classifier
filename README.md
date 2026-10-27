@@ -57,7 +57,7 @@ file you upload to the app.
 
 ## c. GitHub Repository Link
 
-> **`<ADD YOUR GITHUB REPO LINK HERE AFTER PUSHING>`**
+[> **`<ADD YOUR GITHUB REPO LINK HERE AFTER PUSHING>`**](https://github.com/vijay-temgire-bits/dry-bean-classifier.git)
 
 (Replace the placeholder above with your repository URL once you have pushed the
 code — see "How to publish & deploy" below.)
