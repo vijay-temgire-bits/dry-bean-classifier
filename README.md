@@ -17,6 +17,8 @@ classifiers — Logistic Regression, Decision Tree, K-Nearest Neighbours, Gaussi
 Naive Bayes, and a Support Vector Machine — and identify which performs best on
 this dataset.
 <img width="689" height="650" alt="image" src="https://github.com/user-attachments/assets/eb1866a4-14b1-4282-a4e3-368dc14820cc" />
+<img width="517" height="391" alt="image" src="https://github.com/user-attachments/assets/987f08f3-cbab-4ad5-96c2-f499232b7e83" />
+
 
 ---
 
