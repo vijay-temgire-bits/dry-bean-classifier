@@ -142,19 +142,6 @@ report — all computed live, with no retraining.
 
 ---
 
-## How to publish & deploy (do these yourself)
-
-1. **GitHub** — create a new repository, then push this `dry-bean-classifier/`
-   folder (make real commits over time, not one bulk upload — commit history is
-   reviewed). Paste the repo URL into section **c** above.
-2. **Streamlit Community Cloud** — go to <https://streamlit.io/cloud> → sign in
-   with GitHub → **New App** → pick this repo → branch `main` → main file
-   `app.py` → **Deploy**. If the build fails on a dependency, open *Advanced
-   settings* and set the Python version to **3.14** (the version used here), or
-   relax the non-critical pins — but keep `scikit-learn==1.9.1` so the saved
-   models still load.
-3. **BITS Virtual Lab** — run the assignment once on the BITS Virtual Lab and
-   take **one screenshot** of the execution as proof (worth 1 mark). Add it here:
 
  <img width="3425" height="1396" alt="image" src="https://github.com/user-attachments/assets/4af094da-44f3-4656-b77a-0acab85cb315" />
 
