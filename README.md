@@ -156,7 +156,9 @@ report — all computed live, with no retraining.
 3. **BITS Virtual Lab** — run the assignment once on the BITS Virtual Lab and
    take **one screenshot** of the execution as proof (worth 1 mark). Add it here:
 
-   > _BITS Virtual Lab execution screenshot:_ `<attach screenshot in your submission PDF>`
+ <img width="3425" height="1396" alt="image" src="https://github.com/user-attachments/assets/4af094da-44f3-4656-b77a-0acab85cb315" />
+
+<img width="2188" height="1412" alt="image" src="https://github.com/user-attachments/assets/582e24b2-8a61-4e5e-a3d1-6f52a4a3f08e" />
 
 ---
 
