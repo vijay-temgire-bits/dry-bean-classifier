@@ -160,12 +160,3 @@ report — all computed live, with no retraining.
 
 <img width="2188" height="1412" alt="image" src="https://github.com/user-attachments/assets/582e24b2-8a61-4e5e-a3d1-6f52a4a3f08e" />
 
----
-
-## Academic integrity
-
-This project was built from scratch for this assignment: an original dataset
-choice, custom feature-handling and code, a customised Streamlit UI, and
-observations written from the actual results above. Using AI tools for learning
-support is permitted; this submission is not a copy-paste of any existing repo or
-template.
